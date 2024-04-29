@@ -1,5 +1,8 @@
 # 553-Mars
 Mars clone last()
-<h1>Birinchi readme</h1>
+Mars IT school platformasi bo'lib, unda o'quvchilarning darslari tartibga solingan:
 
-![image](https://github.com/Nazimjonovna/553-Mars/assets/88257517/0f77a953-41dd-4b7c-a969-0c6014442a3e)
+<h2>Login qismi: </h2>
+
+![2024-04-29 09 43 18](https://github.com/Nazimjonovna/553-Mars/assets/88257517/372c35a4-f9b4-4402-86ce-59fa99dd93bd)
+
